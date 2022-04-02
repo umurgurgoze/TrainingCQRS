@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1362208e-961a-4daa-ae85-df6488c10161": {
+      "ProjectGuid": "1362208e-961a-4daa-ae85-df6488c10161",
+      "DisplayName": "Training.CQRS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
